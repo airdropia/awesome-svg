@@ -11,7 +11,7 @@
 * [Inkpad](https://github.com/sprang/Inkpad) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [Inkscape](http://www.inkscape.org/en/) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [Sketch](http://bohemiancoding.com/sketch/) - $79.99
-- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
+* [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) - Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
 * [Webcode](http://www.webcodeapp.com/) - $39.99
 * [Gravit Designer](https://www.designer.io) - Free (no charge)
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
