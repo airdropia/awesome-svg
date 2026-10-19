@@ -57,4 +57,3 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 To the extent possible under law, [Willian Justen](https://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
 
 
-- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that ships 7-layer shadow-box SVGs with an editable name plate plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).
